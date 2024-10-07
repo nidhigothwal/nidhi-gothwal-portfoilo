@@ -1,0 +1,11 @@
+body{
+    background-color: rgba(52, 52, 59, .988);
+    color: #ffffff;
+}
+
+.skillbox{
+    width: 100%;
+    height: 300px;
+    float: left;
+    background-color: white;
+}
